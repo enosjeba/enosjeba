@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Astronomical Data Analysis
 
+- 📈 TamilNadu Covid Data Analysis https://public.tableau.com/app/profile/enos.jeba/viz/TnCovidStats/EmbarkedBeds
+
+- 📊 Medium Blog Data Analysis https://public.tableau.com/app/profile/enos.jeba/viz/MediumBlogDataVisualization/Dashboard1
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Visualization Projects**
