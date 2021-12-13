@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Enos</h1>
 <h3 align="center">A UI Designer from India</h3>
 
-- 🔭 I’m currently working on [multiple UI projects](https://www.behance.net/enosjeba)
+- 🔭 I’m currently working on Astronomical Data Analysis
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **User Experience and Interface Design**
+- 👯 I’m looking to collaborate on **Data Visualization Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.enosjeba.com/](https://www.enosjeba.com/)
+- 👨‍💻 All of my projects are available at (Launching soon) [https://www.enosjeba.com/](https://www.enosjeba.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@enosjeba](https://medium.com/@enosjeba)
 
