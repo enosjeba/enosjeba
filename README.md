@@ -7,9 +7,9 @@ I am Enos, UI Designer from India
 Here are some ideas to get you started:
 
 
-- 🔭 I’m Working on multiple Ui Design and Data Science Projects
+- 🔭 I’m Working on Atronomical Data Analysis
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on User Experience Design Projects
+- 👯 I’m looking to collaborate on Data Visualization Projects
 - 💬 Ask me about Visual Design!
 - ⚡ Fun fact: Can stay buried inside books for hours!
 ## Connect with me
