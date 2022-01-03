@@ -1,7 +1,7 @@
 <!--
 
 ### Hi there 👋
-I am Enos, UI Designer from India
+I am Enos, Smile, you made it here.
 **enosjeba/enosjeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
