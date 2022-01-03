@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 -->
 <h1 align="center">Hi 👋, I'm Enos</h1>
-<h3 align="center">Smile, You made it here!</h3>
+<h3 align="center">Thanks for Stopping by!</h3>
 
 - 🔭 I’m currently working on Astronomical Data Analysis
 
