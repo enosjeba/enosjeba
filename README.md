@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Data Visualization Projects**
 
-- 👨‍💻 All of my projects are available at (Launching soon) [https://www.enosjeba.com/](https://www.enosjeba.com/)
+- 👨‍💻 All of my projects are available at [https://www.enosjeba.com/](https://www.enosjeba.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@enosjeba](https://medium.com/@enosjeba)
 
