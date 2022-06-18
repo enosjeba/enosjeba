@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 - 📊 Medium Blog Data Analysis [See Tableau Dashboard](https://public.tableau.com/app/profile/enos.jeba/viz/MediumBlogDataVisualization/Dashboard1)
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Data Visualization Projects**
+- 🌱 I’m currently doing **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://www.enosjeba.com/](http://www.enosjeba.com/)
 
