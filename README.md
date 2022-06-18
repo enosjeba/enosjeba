@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://medium.com/@enosjeba](https://medium.com/@enosjeba)
 
-- 💬 Ask me about **Visual Design!**
+- 💬 Ask me about **Universe!**
 
 - 📫 How to reach me **enosjeba@gmail.com**
 
