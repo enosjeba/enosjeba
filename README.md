@@ -1,52 +1,22 @@
-<!--
-
-### Hi there 👋
-I am Enos, Smile, you made it here.
-**enosjeba/enosjeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 💫 About Me:
+🔭 I’m currently working on Tensorflow<br>👯 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about The big bang theory<br>⚡ Fun fact It's not that simple!
 
 
-- 🔭 I’m Working on Atronomical Data Analysis
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Data Visualization Projects
-- 💬 Ask me about Visual Design!
-- ⚡ Fun fact: Can stay buried inside books for hours!
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/enos-jeba-303451154/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://enosjeba.medium.com/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8609909/enos-jeba)
-<br>
-<br>
--->
-<h1 align="center">Hi 👋, I'm Enos</h1>
-<h3 align="center">The most distinctive man you'll ever know</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enos jeba) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@enosjeba) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8609909) 
 
-- 🔭 I’m currently working on Astronomical Data Analysis
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Enos Jeba&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Enos Jeba&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enos Jeba&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📈 TamilNadu Covid Data Analysis [See Tableau Dashboard](https://public.tableau.com/app/profile/enos.jeba/viz/TnCovidStats/EmbarkedBeds)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Enos Jeba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📊 Medium Blog Data Analysis [See Tableau Dashboard](https://public.tableau.com/app/profile/enos.jeba/viz/MediumBlogDataVisualization/Dashboard1)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently doing **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://www.enosjeba.com/](http://www.enosjeba.com/)
-
-- 📝 I regularly write articles on [https://medium.com/@enosjeba](https://medium.com/@enosjeba)
-
-- 💬 Ask me about **Universe!**
-
-- 📫 How to reach me **enosjeba@gmail.com**
-
-- ⚡ Fun fact **Can bury myself inside books for Hours!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enos-jeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enos-jeba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8609909/enos-jeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="enos-jeba" height="30" width="40" /></a>
-<a href="https://www.behance.net/enosjeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="enosjeba" height="30" width="40" /></a>
-<a href="https://medium.com/@enosjeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enosjeba" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Enos Jeba&icon=0&color=0)](https://visitcount.itsvg.in)
