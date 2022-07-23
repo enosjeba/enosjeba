@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enos</h1>
+<h1 align="center">Hi 👋, I'm Enos Jeba</h1>
 <h3 align="center">Tensorflow Developer from India</h3>
 
 - 🔭 I’m currently working on **Tensorflow**
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enos-jeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enos-jeba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enos-jeba-303451154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enos-jeba-303451154" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8609909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8609909" height="30" width="40" /></a>
 <a href="https://medium.com/@enosjeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enosjeba" height="30" width="40" /></a>
 </p>
