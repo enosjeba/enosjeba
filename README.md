@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enos</h1>
 <h3 align="center">Tensorflow Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enosjeba&label=Profile%20views&color=0e75b6&style=flat" alt="enosjeba" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enosjeba" alt="enosjeba" /></a> </p>
-
 - 🔭 I’m currently working on **Tensorflow**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
