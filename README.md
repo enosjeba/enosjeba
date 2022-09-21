@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enos Jeba</h1>
 <h3 align="center">Tensorflow Developer from India</h3>
 
-- 🔭 I’m currently working on **Tensorflow**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
