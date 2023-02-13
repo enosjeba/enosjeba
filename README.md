@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
+- 😉 Check my site [https://whyenos.me/](whyenos.me)
+
 - 📝 I regularly write articles on [https://medium.com/@enosjeba](https://medium.com/@enosjeba)
 
 - 💬 Ask me about **Python**
